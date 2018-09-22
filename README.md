@@ -6,6 +6,6 @@
 ## Impact
 HopeOneSource (HOS) assists the homeless in Washington DC, who are at risk in providing them assistance with messaging platform in order for them to connect with service providers.
 
-## For News & Updates visit: https://www.hopeonesource.org/news-updates
+For News & Updates visit: https://www.hopeonesource.org/news-updates
 
-## For more information about our service visit: https://www.hopeonesource.org
+For more information about our service visit: https://www.hopeonesource.org
