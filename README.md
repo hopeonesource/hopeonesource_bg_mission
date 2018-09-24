@@ -1,11 +1,11 @@
 ## HopeOneSource
 
 ## Mission
- HopeOneSource (HOS), your central location for all the information you'll need to increase awareness and access to existing social services in your community. HOS is a proven social technology movement for good that leverages geolocation aware text messaging to better serve communities and the humanitarians that serve them.
+HopeOneSource (HOS), mission is to provide assistance to the vulnerable homeless individuals who might be at risk, to have access to service provider through text messaging platform.
 
 ## Impact
-HopeOneSource (HOS) assists the homeless in Washington DC, who are at risk in providing them assistance with messaging platform in order for them to connect with service providers.
+Many homeless residents in Washington DC, can receive assistance by using our service, gain access to housing, career and social services.
 
 For News & Updates visit: https://www.hopeonesource.org/news-updates
 
-For more information about our service visit: https://www.hopeonesource.org
+For more information about our service visit us at: https://www.hopeonesource.org
