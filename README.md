@@ -13,6 +13,7 @@ Since HopeOneSource launched in fall 2015, the Washington DC community has used 
 - Upon completion of our open source Drupal 8 Transition, HopeOneSource will be scaling beyond DC.
 
 
-For more ways to Get Involved beyond open source web development, vist : https://www.hopeonesource.org/form/get-involved
+
+To officially Get Involved and stay engaged, visit : https://www.hopeonesource.org/form/get-involved
 
 For News & Updates, visit: https://www.hopeonesource.org/news-updates
