@@ -12,6 +12,18 @@ Since HopeOneSource launched in fall 2015, the Washington DC community has used 
 
 - Upon completion of our open source Drupal 8 Transition, HopeOneSource will be scaling beyond DC.
 
+## Get Involved
+
+1. Visit https://github.com/hopeonesource. HopeOneSource has 9 repositories available, with more being added as we increasingly modernize to Drupal 8.
+
+2. Fork or clone any of the repositories and create your feature branch of what you will be working on.
+
+3. Desired functions are always listed in the READMe file for those needing support.
+
+4. Once you select a repository to support, create Issue on Github to assign the work to you to prevent duplication, and to push your branch to Github.
+
+5. Next, create a Pull Request and someone will check on your work before merging to HopeOneSource Master branch.
+
 
 
 To officially Get Involved and stay engaged, visit : https://www.hopeonesource.org/form/get-involved
