@@ -14,7 +14,7 @@ Since HopeOneSource launched in fall 2015, the Washington DC community has used 
 
 ## Get Involved
 
-1. Visit https://github.com/hopeonesource. HopeOneSource has 6 repositories available, with more being added as we increasingly modernize to Drupal 8.
+1. Visit https://github.com/hopeonesource. HopeOneSource has 9 repositories available, with more being added as we increasingly modernize to Drupal 8.
 
 2. Fork or clone any of the repositories and create your feature branch of what you will be working on.
 
